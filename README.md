@@ -1,5 +1,5 @@
 ## Marketplace Clone
-Este é um clone de um sistema de marketplace, desenvolvido com [NextJS](). 
+Este é um clone de um sistema de marketplace, desenvolvido com [NextJS](https://nextjs.org/). 
 
 &nbsp;
 ## 👀 Saiba mais
@@ -10,14 +10,12 @@ No final deste documento poderá visualizar os layouts do projeto. 👍🏻
 
 As tecnologias utilizadas para o desenvolvimento foram:
 
-✔ React &nbsp;
 ✔ Typescript &nbsp;
 ✔ Tailwind CSS &nbsp;
-
 ✔ Next Auth &nbsp;
+
 ✔ ImageKit &nbsp;
 ✔ Shadcn/ui &nbsp;
-
 ✔ Mongoose
 
 &nbsp;
