@@ -23,7 +23,7 @@ As tecnologias utilizadas para o desenvolvimento foram:
 &nbsp;
 ## 👨🏻‍💻 Começando...
 Após criar um novo projeto utilizando o NextJS com typescript e configurar todas as tecnologias citadas acima, o projeto utiliza o Mongo db para guardar os dados dos posts.
-Deve-se criar um banco de dados no site `https://www.mongodb.com/`.
+Deve-se criar um banco de dados no site [MongoDB Atlas](https://www.mongodb.com/).
 
 Um arquivo `.env` deverá ser criado na raiz do projeto onde você irá inserir todos os dados de comunicação do banco e suas chaves privadas e públicas de autenticação de login. Segue um modelo de chaves para criação:
 
