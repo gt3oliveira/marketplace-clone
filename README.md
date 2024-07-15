@@ -1,8 +1,7 @@
 ## Marketplace Clone
 Este é um clone de um sistema de marketplace, desenvolvido com [NextJS](). 
 
-##
-
+&nbsp;
 ## 👀 Saiba mais
 Este projeto é um sistema de vendas online, onde o usuário pode adicionar posts dos seus produtos com fotos, preço, descrição, contatos e localização (função em construção).
 
@@ -11,16 +10,17 @@ No final deste documento poderá visualizar os layouts do projeto. 👍🏻
 
 As tecnologias utilizadas para o desenvolvimento foram:
 
-✔ React
-✔ Typescript 
-✔ Tailwind CSS
-✔ Next Auth
-✔ ImageKit
-✔ Shadcn/ui
+✔ React &nbsp;
+✔ Typescript &nbsp;
+✔ Tailwind CSS &nbsp;
+
+✔ Next Auth &nbsp;
+✔ ImageKit &nbsp;
+✔ Shadcn/ui &nbsp;
+
 ✔ Mongoose
 
-##
-
+&nbsp;
 ## 👨🏻‍💻 Começando...
 Após criar um novo projeto utilizando o NextJS com typescript e configurar todas as tecnologias citadas acima, o projeto utiliza o Mongo db para guardar os dados dos posts.
 Deve-se criar um banco de dados no site `https://www.mongodb.com/`.
@@ -49,28 +49,28 @@ npm run dev
 
 👍🏻 Visualize o projeto no navegador utilizando a URL `localhost://5173`.
 
-##
-
+&nbsp;
 ## 💻 Layouts do projeto
 
+&nbsp;
 | Página home | 
 |--|
 |<img height="297" src="./github/home-page.png" /> |
 
-##
+&nbsp;
 | Página do post | Página para adicionar novos posts |
 |--|--|
-|<img height="297" src="./github/product-page.png" /> | <img height="297" src="./github/add-product-page.png" /> |
+|<img width="665" src="./github/product-page.png" /> | <img width="665" src="./github/add-product-page.png" /> |
 
-##
+&nbsp;
 | Página dos posts do usuário | 
 |--|
 |<img height="297" src="./github/my-posts-page.png" /> |
 
-##
+&nbsp;
 | Página de edição do post | Modal para deletar post |
 |--|--|
-|<img height="297" src="./github/product-edit-page.png" /> | <img height="297" src="./github/product-delete-page.png" /> |
+|<img width="665" src="./github/product-edit-page.png" /> | <img width="665" src="./github/product-delete-page.png" /> |
 
 ---
 
