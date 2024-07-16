@@ -1,5 +1,5 @@
 ## Marketplace Clone
-Este é um clone de um sistema de marketplace, desenvolvido com [NextJS](https://nextjs.org/). 
+Este é um clone de um sistema de marketplace, utlizando [NextJS](https://nextjs.org/) e desenvolvido com Typescript. 
 
 &nbsp;
 ## 👀 Saiba mais
@@ -10,11 +10,10 @@ No final deste documento poderá visualizar os layouts do projeto. 👍🏻
 
 As tecnologias utilizadas para o desenvolvimento foram:
 
-✔ Typescript &nbsp;
 ✔ Tailwind CSS &nbsp;
 ✔ Next Auth &nbsp;
-
 ✔ ImageKit &nbsp;
+
 ✔ Shadcn/ui &nbsp;
 ✔ Mongoose
 
@@ -39,11 +38,15 @@ Para a autenticação do acesso ao banco de dados:
 MONGODB_URL
 ```
 
+&nbsp;
+
 Então, escreva o seguinte comando no cmd para executar a aplicação:
 
 ```bash
 npm run dev
 ```
+
+&nbsp;
 
 👍🏻 Visualize o projeto no navegador utilizando a URL `localhost://5173`.
 
